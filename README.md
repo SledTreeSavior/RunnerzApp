@@ -1,4 +1,4 @@
-# RunnerzSpringApp
+# RunnerzApp
 Java Spring Boot REST API application to create, retrieve, update, and delete data for runs tracked and stored within a PostgreSQL DB.
 
 # Browser
